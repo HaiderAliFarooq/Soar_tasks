@@ -20,7 +20,7 @@
     - Appium Server
 
 # Logical and security test report:
-- The bug report containing the logical and security related vunlerabilities is furnished in the word document named **Soar - Security and Logical Vulnerabilies**
+- The bug report containing the logical and security related vulnerabilities are furnished in the word document named **Soar - Security and Logical Vulnerabilies**
 
 # Performance Testing:
 ## Task 1:
@@ -33,9 +33,9 @@
   - The performance testing report of Wikipedia mobile application performed through apptim tool is available as a pdf named **Performance Test Report - Apptim**. 
 
 # Test Management:
-  - Test Plan for the given requierment is furnished in a word document as **Test Plan - Soar Test**
+  - Test Plan for the given requirement is furnished in a word document as **Test Plan - Soar Test**
   - Risk based testing plan is furnished as **Risk Based Testing (RBT)**
-  - Test Cases of all the given user stories is writter in word document named **Soar Task- Test Cases**
+  - Test Cases of all the given user stories is written in word document named **Soar Task- Test Cases**
   - Test Run is documented in a word file as **Soar Task- Test Run**
 
 
