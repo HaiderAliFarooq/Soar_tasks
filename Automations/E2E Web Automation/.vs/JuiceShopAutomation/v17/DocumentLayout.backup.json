@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JuiceShopAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26DFADE8-ACD6-4123-8594-C1B22D3B802C}|JuiceShopAutomation.Maps\\JuiceShopAutomation.Maps.csproj|d:\\juiceshopautomation\\juiceshopautomation.maps\\webcommon\\pagefactoryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DFADE8-ACD6-4123-8594-C1B22D3B802C}|JuiceShopAutomation.Maps\\JuiceShopAutomation.Maps.csproj|solutionrelative:juiceshopautomation.maps\\webcommon\\pagefactoryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DFADE8-ACD6-4123-8594-C1B22D3B802C}|JuiceShopAutomation.Maps\\JuiceShopAutomation.Maps.csproj|d:\\juiceshopautomation\\juiceshopautomation.maps\\webcommon\\chromedrivercreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DFADE8-ACD6-4123-8594-C1B22D3B802C}|JuiceShopAutomation.Maps\\JuiceShopAutomation.Maps.csproj|solutionrelative:juiceshopautomation.maps\\webcommon\\chromedrivercreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DFADE8-ACD6-4123-8594-C1B22D3B802C}|JuiceShopAutomation.Maps\\JuiceShopAutomation.Maps.csproj|d:\\juiceshopautomation\\juiceshopautomation.maps\\webcommon\\basedriverdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DFADE8-ACD6-4123-8594-C1B22D3B802C}|JuiceShopAutomation.Maps\\JuiceShopAutomation.Maps.csproj|solutionrelative:juiceshopautomation.maps\\webcommon\\basedriverdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DFADE8-ACD6-4123-8594-C1B22D3B802C}|JuiceShopAutomation.Maps\\JuiceShopAutomation.Maps.csproj|d:\\juiceshopautomation\\juiceshopautomation.maps\\webcommon\\basedrivercreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DFADE8-ACD6-4123-8594-C1B22D3B802C}|JuiceShopAutomation.Maps\\JuiceShopAutomation.Maps.csproj|solutionrelative:juiceshopautomation.maps\\webcommon\\basedrivercreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageFactoryHelper.cs",
+              "DocumentMoniker": "D:\\JuiceShopAutomation\\JuiceShopAutomation.Maps\\WebCommon\\PageFactoryHelper.cs",
+              "RelativeDocumentMoniker": "JuiceShopAutomation.Maps\\WebCommon\\PageFactoryHelper.cs",
+              "ToolTip": "D:\\JuiceShopAutomation\\JuiceShopAutomation.Maps\\WebCommon\\PageFactoryHelper.cs",
+              "RelativeToolTip": "JuiceShopAutomation.Maps\\WebCommon\\PageFactoryHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:43:19.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChromeDriverCreator.cs",
+              "DocumentMoniker": "D:\\JuiceShopAutomation\\JuiceShopAutomation.Maps\\WebCommon\\ChromeDriverCreator.cs",
+              "RelativeDocumentMoniker": "JuiceShopAutomation.Maps\\WebCommon\\ChromeDriverCreator.cs",
+              "ToolTip": "D:\\JuiceShopAutomation\\JuiceShopAutomation.Maps\\WebCommon\\ChromeDriverCreator.cs",
+              "RelativeToolTip": "JuiceShopAutomation.Maps\\WebCommon\\ChromeDriverCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:43:11.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseDriverDecorator.cs",
+              "DocumentMoniker": "D:\\JuiceShopAutomation\\JuiceShopAutomation.Maps\\WebCommon\\BaseDriverDecorator.cs",
+              "RelativeDocumentMoniker": "JuiceShopAutomation.Maps\\WebCommon\\BaseDriverDecorator.cs",
+              "ToolTip": "D:\\JuiceShopAutomation\\JuiceShopAutomation.Maps\\WebCommon\\BaseDriverDecorator.cs",
+              "RelativeToolTip": "JuiceShopAutomation.Maps\\WebCommon\\BaseDriverDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:43:04.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseDriverCreator.cs",
+              "DocumentMoniker": "D:\\JuiceShopAutomation\\JuiceShopAutomation.Maps\\WebCommon\\BaseDriverCreator.cs",
+              "RelativeDocumentMoniker": "JuiceShopAutomation.Maps\\WebCommon\\BaseDriverCreator.cs",
+              "ToolTip": "D:\\JuiceShopAutomation\\JuiceShopAutomation.Maps\\WebCommon\\BaseDriverCreator.cs",
+              "RelativeToolTip": "JuiceShopAutomation.Maps\\WebCommon\\BaseDriverCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:42:49.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 400,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
